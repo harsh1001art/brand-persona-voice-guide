@@ -1,3 +1,4 @@
+TASK 2 :
 🔹 Brand Persona
 **Name**: BeanBuzz  
 **Industry**: Coffee subscription for Gen Z  
