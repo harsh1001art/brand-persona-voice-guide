@@ -29,6 +29,17 @@
 - Social Media Captions
 - Customer Support Scripts
 - Product Packaging
+  
+- 💬 Voice in Action
+
+Instagram Post Caption:
+We’re not saying our oat latte can fix the world... but it does help fund a classroom in Pune. Sip smart, save hearts 💚
+
+Email Subject Line:
+"Your coffee saved a life. No biggie. ☕💥"
+
+Website Welcome Text:
+"Welcome to BeanBuddies — where every cup supports young minds & cleaner Earth. Let’s sip responsibly."
 
 
 
